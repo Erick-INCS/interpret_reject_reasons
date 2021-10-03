@@ -1,0 +1,4 @@
+rejectReasonsVal
+*.csv
+*.txt
+*@neomake*.py
